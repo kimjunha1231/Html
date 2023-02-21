@@ -42,3 +42,4 @@
 ```
 6. title: 탭의 제목 
 7. ``` <meta charset="utf-8"> ``` : 글씨 깨지면 사용
+8. ``` <DOCTYPE html> ``` : Documeny type 의 html
