@@ -44,6 +44,19 @@
 6. title: 탭의 제목 
 7. ``` <meta charset="utf-8"> ``` : 글씨 깨지면 사용
 8. ``` <DOCTYPE html> ``` : Documeny type 의 html
+9. font color="색": 글씨 색 바꿈
 
 ## css : 디자인
-1. font color="색": 글씨 색 바꿈
+1. li 글씨를 모두 빨간 색으
+```
+    <style>
+        li{
+            color:red;
+        }
+    </style>
+
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+```
+
