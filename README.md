@@ -1,5 +1,5 @@
 # likelion html
-## html
+## html : 정보에 집중
 
 1. strong : 글씨 진하게
 2. h1 : 제목 (굵고 큰 문자, 줄 바꿈)
@@ -45,5 +45,5 @@
 7. ``` <meta charset="utf-8"> ``` : 글씨 깨지면 사용
 8. ``` <DOCTYPE html> ``` : Documeny type 의 html
 
-## css
+## css : 디자인
 1. font color="색": 글씨 색 바꿈
