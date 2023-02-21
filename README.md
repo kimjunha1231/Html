@@ -46,4 +46,4 @@
 8. ``` <DOCTYPE html> ``` : Documeny type 의 html
 
 ## css
-1. font color: 글씨 색 바꿈
+1. font color="색": 글씨 색 바꿈
